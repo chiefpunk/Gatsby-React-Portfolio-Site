@@ -102,7 +102,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/RisingStar-Web/Gatsby-React-Portfolio-Site"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Maksim Damaskin</div>
