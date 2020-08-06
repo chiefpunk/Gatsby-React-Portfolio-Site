@@ -4,7 +4,7 @@ module.exports = {
     'Maksim Damaskin is a front-end web developer who is comfortable with architecting and implementing scalable and maintainable web app/services with the TDD/BDD approach.',
   siteKeywords:
     'Maksim Damaskin, Maksim, Damaskin, Front-End Developer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://maksim-damaskin.netlify.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -18,18 +18,18 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/RisingStar-Web',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/maksim_damaskin',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/maksim_damaskin',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/maksim_damaskin',
-    },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/maksim_damaskin',
+    // },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/maksim_damaskin',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/maksim_damaskin',
+    // },
     {
       name: 'Twitter',
       url: 'https://twitter.com/maksim_damaskin',
@@ -58,7 +58,7 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
+    green: '#0000ff',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
