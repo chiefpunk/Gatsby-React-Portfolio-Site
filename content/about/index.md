@@ -12,7 +12,7 @@ skills:
   - WordPress
 ---
 
-Hello! I'm Maksim, a front-end developer based in Vladivostok, Russia.
+👏Hello! I'm Maksim, a senior front-end developer.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
