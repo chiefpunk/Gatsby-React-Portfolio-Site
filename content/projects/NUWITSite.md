@@ -1,7 +1,7 @@
 ---
 date: '2015-12-20'
 title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
+github: ''
 external: 'https://nuwit.ccs.neu.edu/'
 tech:
   - Jekyll
