@@ -1,7 +1,7 @@
 ---
 date: '2016-11-16'
 title: 'Weather Widget'
-github: 'https://github.com/bchiang7/DemoWebApp'
+github: ''
 external: 'http://quiet-dusk-89245.herokuapp.com/'
 tech:
   - Node
