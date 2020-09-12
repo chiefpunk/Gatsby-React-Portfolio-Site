@@ -18,10 +18,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/RisingStar-Web',
     },
-    // {
-    //   name: 'Linkedin',
-    //   url: 'https://www.linkedin.com/in/maksim_damaskin',
-    // },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/maksim-damaskin-0914/',
+    },
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/maksim_damaskin',
